@@ -1,0 +1,48 @@
+{
+    "list" : [
+        {
+            "path" : "probleme/royfloyd/",
+            "name" : "royfloyd.cpp",
+            "in" : "royfloyd.in",
+            "out" : "royfloyd.out",
+            "test base" : "grader_test",
+            "number tests" : 10,
+            "test in" : ".in",
+            "test out" : ".ok",
+            "time" : 0.05
+        },
+        {
+            "path" : "probleme/strmatch/",
+            "name" : "strmatch.cpp",
+            "in" : "strmatch.in",
+            "out" : "strmatch.out",
+            "test base" : "grader_test",
+            "number tests" : 50,
+            "test in" : ".in",
+            "test out" : ".ok",
+            "time" : 0.3
+        },
+        {
+            "path" : "probleme/dijkstra/",
+            "name" : "dijkstra.cpp",
+            "in" : "dijkstra.in",
+            "out" : "dijkstra.out",
+            "test base" : "grader_test",
+            "number tests" : 10,
+            "test in" : ".in",
+            "test out" : ".ok",
+            "time" : 0.4
+        },
+        {
+            "path" : "probleme/rucsac/",
+            "name" : "rucsac.cpp",
+            "in" : "rucsac.in",
+            "out" : "rucsac.out",
+            "test base" : "grader_test",
+            "number tests" : 20,
+            "test in" : ".in",
+            "test out" : ".ok",
+            "time" : 0.4
+        }
+    ]
+}

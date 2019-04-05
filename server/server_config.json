@@ -1,0 +1,8 @@
+{
+    "code": "random",
+    "nr_contenders": 30,
+    "nr_prob": 2,
+    "nr_sec_contest": 180,
+    "nr_sec_wait": 60,
+    "prob_choosing_type": "random"
+}
